@@ -1,25 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
+Welcome to Githome of 🇳🇴 Jan Ketil 🇳🇴
 
-Welcome to my GitHub Profile
-
-🔭 I’m currently working on KQL and PowerShell items
+🔭 I’m currently working on KQL and PowerShell community projects. 
 
 * Blog : [MSEndPointMgr](https://msendpointmgr.com)
 * Company Website: [CloudWay](https://cloudway.com)
-* Twitter Profile: [@JankeSkanke](https://twitter.com/JankeSkanke)
+
+Stay up to date on my community projects by following me on Twitter and here on Github. You never know when a new repo pops up with some good stuff  :punch:
 
 
-<!--
-**JankeSkanke/JankeSkanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/JankeSkanke?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=JankeSkanke)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some github stats. 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jankeskanke)](https://github.com/jankeskanke)
