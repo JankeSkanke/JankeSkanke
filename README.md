@@ -11,5 +11,6 @@ Stay up to date on my community projects by following me on Twitter and here on 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JankeSkanke?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=JankeSkanke)
 
-Here are some github stats. 
+***
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jankeskanke)](https://github.com/jankeskanke)
